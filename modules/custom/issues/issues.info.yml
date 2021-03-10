@@ -1,0 +1,4 @@
+name: Active Issues
+type: module
+core: '8.x'
+description: 'Display most active issues for a project maintained at Drupal.org.'
